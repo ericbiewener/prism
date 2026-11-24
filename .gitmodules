@@ -1,0 +1,3 @@
+[submodule "discovery-platform-web"]
+	path = submodules/discovery-platform-web
+	url = https://github.corp.ebay.com/DiscoveryPlatform/discovery-platform-web
